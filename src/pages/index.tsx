@@ -5,6 +5,7 @@ import styles from "../styles/Home.module.css"
 
 const Home: NextPage = () => {
 	console.log("hkkfka")
+	let test = 12
 
 	return (
 		<div className={styles.container}>
